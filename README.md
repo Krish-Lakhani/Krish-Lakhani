@@ -1,18 +1,18 @@
 ![logo](https://github.com/Krish-Lakhani/Krish-Lakhani/commit/5331f06a695102fa111b7b9187ba0ecb5a3108d1)
-<h1 align="center">Hi ??, I'm Krish Lakhani</h1>
+<h1 align="center">Hi 👋, I'm Krish Lakhani</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krish-lakhani&label=Profile%20views&color=0e75b6&style=flat" alt="krish-lakhani" /> </p>
 
-- ?? I’m currently learning **Java, Data Structures and Algorithms, REST API , Spring,Spring Boot**
+- 🌱 I’m currently learning **Java, Data Structures and Algorithms, REST API , Spring,Spring Boot**
 
-- ????? All of my projects are available at [https://github.com/Krish-Lakhani?tab=repositories](https://github.com/Krish-Lakhani?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Krish-Lakhani?tab=repositories](https://github.com/Krish-Lakhani?tab=repositories)
 
-- ?? Ask me about **Java, DSA, REST API**
+- 💬 Ask me about **Java, DSA, REST API**
 
-- ?? How to reach me **krishlakhani92@gmail.com**
+- 📫 How to reach me **krishlakhani92@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
