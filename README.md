@@ -1,3 +1,4 @@
+![logo](https://github.com/Krish-Lakhani/Krish-Lakhani/commit/5331f06a695102fa111b7b9187ba0ecb5a3108d1)
 <h1 align="center">Hi ??, I'm Krish Lakhani</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
