@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Krish Lakhani</h1>
-<div align="center"> <img src="https://github.com/Krish-Lakhani/Krish-Lakhani/blob/main/Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner.png"> </div>
+<div align="center"> <img src="https://github.com/Krish-Lakhani/Krish-Lakhani/blob/main/Black and White Simple Front End LinkedIn Banner.png"> </div>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
